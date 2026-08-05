@@ -1,6 +1,6 @@
 # Hangman
 
-  While building Hangman project I used an Arduino Uno R4 Wifi, LCD display and one potentiometer(only to set the contrast/brightness). 
+  __While building Hangman project I used an Arduino Uno R4 Wifi, LCD display and one potentiometer(only to set the contrast/brightness).__
   
   Imagine the game being played by two people, one is choosing the word and the other one is trying to guess. The first one is asked to write in the Serial Monitor the word wanted to be guessed, but it can be good, too long or not valid(it contains other characters besides letters), accordingly a text will be displayed.
   
